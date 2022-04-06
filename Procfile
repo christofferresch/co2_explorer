@@ -1,1 +1,1 @@
-web:gunicorn CO2_explorer:server
+web: gunicorn CO2_explorer:server
